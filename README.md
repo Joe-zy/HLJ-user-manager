@@ -1,5 +1,5 @@
 ## HLJ-user-manager
-node.js+mongoDB+bootstrap CRUD system
+node.js+express+mongoDB+bootstrap CRUD system
 ## get start
 1.`cd bin`
 
